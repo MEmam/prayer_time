@@ -1,0 +1,1 @@
+from prayer_time import app as application
